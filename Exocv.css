@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: bisque;
+    margin: 0px;
+}
+.contact{
+    padding: 30px;
+}
+#Experience,#Formation,#Competence{
+    padding: 15px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+}
+h1,h2{
+    text-align: center;
+}
+.exp1,.exp2{
+    justify-content: center;
+}
+.ul1{
+    display: flex;
+    justify-content: space-around;
+}
